@@ -53,4 +53,6 @@ Feel free to **fork** the project, improve it, and submit a **pull request**!
 ## 📜 License  
 
 This project is **open-source** and free to use.  
+This project is totally done by the owner 
+if you have any doubts and clarification contact:aswindowney@gmail.com
 
